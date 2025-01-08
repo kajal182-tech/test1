@@ -1,5 +1,5 @@
 body {
-  background-color: #fe9801;
+  background-color: #d3afec;
   color: black;
   text-align: center;
 }
@@ -23,7 +23,7 @@ body {
 
 .timer, .errors, .accuracy,
 .cpm, .wpm {
-  background-color: #ccda46;
+  background-color: #d9d9dd;
   height: 60px;
   width: 70px;
   margin: 8px;
@@ -49,7 +49,7 @@ body {
 }
 
 .quote {
-  background-color: #ccda46;
+  background-color: #efebeb;
   font-size: 1.5rem;
   margin: 10px;
   padding: 25px;
